@@ -35,6 +35,7 @@ Key Components of the Dashboard:
 
 # OUTPUT
 
-![Uploading Sales Dashboard1.jpg…]()
+![Sales Dashboard1](https://github.com/user-attachments/assets/0b70a437-0482-4766-91b7-1360228f54fe)
+
 
 
